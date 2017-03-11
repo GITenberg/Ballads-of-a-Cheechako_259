@@ -1,5 +1,8 @@
 _repo: Ballads-of-a-Cheechako_259
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Service, Robert W. (Robert William)
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Service
 description: Poems relating chiefly to Klondike Gold Rush and to life in northern
   Canada.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/259#Ballads-of-a-Cheechako
 gutenberg_issued: '2008-07-02'
 gutenberg_type: Text
 identifiers:
